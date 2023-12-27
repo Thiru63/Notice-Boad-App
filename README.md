@@ -11,4 +11,4 @@ The Notice Board Application
                5. update notice - https://notice-board-app.onrender.com/user/notice , this is put method and  headers must contain
                   bearer token in authorization and key word also same and params must contain noticeId with same keyword 
                6. delete notice - https://notice-board-app.onrender.com/user/notice , this is delete method and  headers must contain
-                  bearer token in authorization and key word also same and params must contain noticeId with same keyword   
+                  bearer token in authorization and key word also same and params must contain noticeId with same keyword 
